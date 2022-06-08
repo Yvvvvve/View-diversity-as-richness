@@ -7,6 +7,18 @@ image: "assets/images/Intersex-inclusive_pride_flag.svg.jpg"
 description: "By Nikki - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=108095179"
 ---
 Happy pride month! Hope everyone is doing well and enjoying their own lives :) And it is okay, if you are not ready <3
+
 I know sometimes it's really hard to live for now and sometimes we just want to get drunk and forget the reality, 
 so I want to give you a virtual hug and let you know that it is okay to not be okay.
+
 Nos vemos mañana ;)
+
+![Rainbow_Hug-Print-CDR]({{ site.baseurl }}/assets/images/Rainbow_Hug-Print-CDR.jpg)
+
+Some websites you may want to visit:
+
+https://pronouns.org/what-and-why
+
+https://www.lgbtqia.wiki/wiki/LGBTA_Wiki
+
+https://lgbtqia.fandom.com/wiki/LGBTQIA%2B_Wiki
