@@ -3,7 +3,7 @@ title:  "Equality for all"
 subtitle: "Be inclusive"
 author: "Yve"
 avatar: "assets/images/authors/Chaeng Laurent 25.jpg"
-image: "assets/images/Intersex-inclusive_pride_flag.svg.jpg"
+image: "assets/images/Intersex-inclusive_pride_flag.png"
 ---
 Happy pride month! Hope everyone is doing well and enjoying their own lives :) And it is okay, if you are not ready <3
 
